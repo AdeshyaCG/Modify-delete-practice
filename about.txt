@@ -1,1 +1,2 @@
 this is a git project
+i am learning git and github pr and conflict resolution.
